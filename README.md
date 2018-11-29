@@ -22,7 +22,12 @@ Communication and coordination between movie owners.
 ### What is the primary goal of the product    
 Demonstration of an online website to coordinate DVD sharing similar to the "Little Free Library"   
 
-
+### Demo
+![Landing page](resources/ownflix_1.png)
+![Register](resources/ownflix_2.png)
+![Dashboard](resources/ownflix_3.png)
+![Search](resources/ownflix_4.png)
+![Claimed](resources/ownflix_5.png)
 
 ## Our Design Approach    
 
